@@ -16,6 +16,7 @@ namespace TestProject123
         public static void AddTwoNumbers(int a, int b)
         {
             Console.WriteLine(a + b);
+
         }
     }
 }
